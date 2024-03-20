@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme for a dark theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Other customizations specific to your dark theme -->
+    </style>
+
+</resources>
