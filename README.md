@@ -1,4 +1,4 @@
-![Logo](https://github.com/Terminal127/Artemis-android/blob/main/artemisbanner.jpg)
+ng![Logo](https://github.com/Terminal127/Artemis-android/blob/main/artemisbanner.png)
 **Project "Artemis": Virtual Voice Assistant for Android**
 
 **Comprehensive Analysis**
